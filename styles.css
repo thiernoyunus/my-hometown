@@ -13,8 +13,9 @@ DARK BLUE: #1D3557
 body {
     margin: 0;
     text-align: center;
-    font-family: "Happy Monkey", system-ui;
-    font-weight: 400;
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
     font-style: normal;
 }
 
