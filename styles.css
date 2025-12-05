@@ -15,7 +15,7 @@ body {
     text-align: center;
     font-family: "Source Sans 3", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 700px;
+    font-weight: 700;
     font-style: normal;
 }
 
@@ -64,7 +64,7 @@ img {
 .explore{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
     margin: 54px 33px 38px 34px;
 }
 
@@ -84,6 +84,7 @@ img {
     border-radius: 10px;
     align-items: center;
     margin: 50px auto;
+    color: #1D3557;
 }
 
 #tour-guide-avatar {
@@ -96,5 +97,4 @@ img {
 #about-me{
     margin-left: 7px;
     margin-right: 11px;
-    
 }
