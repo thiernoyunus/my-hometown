@@ -5,6 +5,9 @@ npm install
 npm start
 ```
 
+View the project here: https://guineahometownproject.netlify.app
+
+
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
