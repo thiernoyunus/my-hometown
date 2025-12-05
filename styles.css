@@ -63,6 +63,7 @@ img {
 
 .explore{
     display: flex;
+    justify-content: center;
     align-items: center;
     margin: 54px 33px 38px 34px;
 }
@@ -82,9 +83,7 @@ img {
     background-color: aquamarine;
     border-radius: 10px;
     align-items: center;
-    margin: 50px 160px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 50px auto;
 }
 
 #tour-guide-avatar {
