@@ -1,0 +1,98 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img {
+    width: 150px;
+}
+
+#hero{
+    background-image: url(https://statemag.state.gov/wp-content/uploads/2022/03/0422-POM-13.jpg);
+    background-size: cover;
+    color: white;
+    height: 343px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#h1-hero{
+    background-color: red;
+    border-radius: 10px;
+    padding: 5px 12px;
+    text-shadow: 2px 1px black;
+    margin-bottom: 15px;
+}
+
+#h2-hero{
+    background-color: green;
+    border-radius: 10px;
+    padding: 5px 12px;
+    width: 500px;
+    margin-top: 0px;
+}
+
+.activities{
+    background: linear-gradient(red, yellow, green);
+    height: 300px;
+    padding-top: 40px;
+}
+.activity-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1D3557;
+}
+
+.explore{
+    display: flex;
+    align-items: center;
+    margin: 54px 33px 38px 34px;
+}
+
+.round-img {
+  border-radius: 50%;
+}
+
+.headline-activities{
+    margin: 0px;
+}
+
+.guide{
+    display: flex;
+    width: 400px;
+    height: 250px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    align-items: center;
+    margin: 50px 160px;
+}
+
+#tour-guide-avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 13px;
+}
+
+#about-me{
+    margin-left: 7px;
+    margin-right: 11px;
+    
+}
