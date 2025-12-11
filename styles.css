@@ -66,6 +66,7 @@ img {
     justify-content: center;
     align-items: baseline;
     margin: 54px 33px 38px 34px;
+    gap: 30px
 }
 
 .round-img {
