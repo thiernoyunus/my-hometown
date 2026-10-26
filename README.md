@@ -1,4 +1,8 @@
 <p align="center">
+  <img src=".github/assets/logo.png" width="112" alt="Visit Guinea logo" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/gradient.svg?title=Visit+Guinea&subtitle=A+country+with+unique+cultural+diversity&logo=googlemaps&mode=dark" />
     <img alt="Visit Guinea" src="https://shieldcn.dev/header/gradient.svg?title=Visit+Guinea&subtitle=A+country+with+unique+cultural+diversity&logo=googlemaps&mode=light" />
